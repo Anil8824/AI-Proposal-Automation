@@ -1,0 +1,4202 @@
+[
+    {
+        "id": 1,
+        "title": "Patient Portal",
+        "domain": "Healthcare",
+        "summary": "Patient Portal designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 2,
+        "title": "Health Insurance System",
+        "domain": "Healthcare",
+        "summary": "Health Insurance System designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 3,
+        "title": "Doctor Appointment",
+        "domain": "Healthcare",
+        "summary": "Doctor Appointment designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 4,
+        "title": "Laboratory Management",
+        "domain": "Healthcare",
+        "summary": "Laboratory Management designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 5,
+        "title": "Pharmacy ERP",
+        "domain": "Healthcare",
+        "summary": "Pharmacy ERP designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 6,
+        "title": "Hospital Management System",
+        "domain": "Healthcare",
+        "summary": "Hospital Management System designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 7,
+        "title": "Telemedicine Platform",
+        "domain": "Healthcare",
+        "summary": "Telemedicine Platform designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 8,
+        "title": "Medical Billing",
+        "domain": "Healthcare",
+        "summary": "Medical Billing designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 9,
+        "title": "Hospital Management System",
+        "domain": "Healthcare",
+        "summary": "Hospital Management System designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 10,
+        "title": "EHR Platform",
+        "domain": "Healthcare",
+        "summary": "EHR Platform designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 11,
+        "title": "Laboratory Management",
+        "domain": "Healthcare",
+        "summary": "Laboratory Management designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 12,
+        "title": "Telemedicine Platform",
+        "domain": "Healthcare",
+        "summary": "Telemedicine Platform designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 13,
+        "title": "Pharmacy ERP",
+        "domain": "Healthcare",
+        "summary": "Pharmacy ERP designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 14,
+        "title": "Patient Portal",
+        "domain": "Healthcare",
+        "summary": "Patient Portal designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 15,
+        "title": "EHR Platform",
+        "domain": "Healthcare",
+        "summary": "EHR Platform designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 16,
+        "title": "EHR Platform",
+        "domain": "Healthcare",
+        "summary": "EHR Platform designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 17,
+        "title": "Doctor Appointment",
+        "domain": "Healthcare",
+        "summary": "Doctor Appointment designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 18,
+        "title": "Patient Portal",
+        "domain": "Healthcare",
+        "summary": "Patient Portal designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 19,
+        "title": "Pharmacy ERP",
+        "domain": "Healthcare",
+        "summary": "Pharmacy ERP designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 20,
+        "title": "Hospital Management System",
+        "domain": "Healthcare",
+        "summary": "Hospital Management System designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 21,
+        "title": "Doctor Appointment",
+        "domain": "Healthcare",
+        "summary": "Doctor Appointment designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 22,
+        "title": "Health Insurance System",
+        "domain": "Healthcare",
+        "summary": "Health Insurance System designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 23,
+        "title": "Medical Billing",
+        "domain": "Healthcare",
+        "summary": "Medical Billing designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 24,
+        "title": "Medical Inventory",
+        "domain": "Healthcare",
+        "summary": "Medical Inventory designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 25,
+        "title": "Telemedicine Platform",
+        "domain": "Healthcare",
+        "summary": "Telemedicine Platform designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 26,
+        "title": "Hospital Management System",
+        "domain": "Healthcare",
+        "summary": "Hospital Management System designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 27,
+        "title": "Hospital Management System",
+        "domain": "Healthcare",
+        "summary": "Hospital Management System designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 28,
+        "title": "Doctor Appointment",
+        "domain": "Healthcare",
+        "summary": "Doctor Appointment designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 29,
+        "title": "Laboratory Management",
+        "domain": "Healthcare",
+        "summary": "Laboratory Management designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 30,
+        "title": "Medical Inventory",
+        "domain": "Healthcare",
+        "summary": "Medical Inventory designed for modern healthcare organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 31,
+        "title": "Digital Banking",
+        "domain": "Finance",
+        "summary": "Digital Banking designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 32,
+        "title": "Digital Banking",
+        "domain": "Finance",
+        "summary": "Digital Banking designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 33,
+        "title": "Investment Platform",
+        "domain": "Finance",
+        "summary": "Investment Platform designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 34,
+        "title": "Tax Management",
+        "domain": "Finance",
+        "summary": "Tax Management designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 35,
+        "title": "Fraud Detection",
+        "domain": "Finance",
+        "summary": "Fraud Detection designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 36,
+        "title": "Investment Platform",
+        "domain": "Finance",
+        "summary": "Investment Platform designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 37,
+        "title": "Fraud Detection",
+        "domain": "Finance",
+        "summary": "Fraud Detection designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 38,
+        "title": "Loan Management",
+        "domain": "Finance",
+        "summary": "Loan Management designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 39,
+        "title": "Expense Tracker",
+        "domain": "Finance",
+        "summary": "Expense Tracker designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 40,
+        "title": "Insurance Portal",
+        "domain": "Finance",
+        "summary": "Insurance Portal designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 41,
+        "title": "Insurance Portal",
+        "domain": "Finance",
+        "summary": "Insurance Portal designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 42,
+        "title": "Investment Platform",
+        "domain": "Finance",
+        "summary": "Investment Platform designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 43,
+        "title": "Accounting ERP",
+        "domain": "Finance",
+        "summary": "Accounting ERP designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 44,
+        "title": "Tax Management",
+        "domain": "Finance",
+        "summary": "Tax Management designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 45,
+        "title": "Investment Platform",
+        "domain": "Finance",
+        "summary": "Investment Platform designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 46,
+        "title": "Trading Platform",
+        "domain": "Finance",
+        "summary": "Trading Platform designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 47,
+        "title": "Accounting ERP",
+        "domain": "Finance",
+        "summary": "Accounting ERP designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 48,
+        "title": "Insurance Portal",
+        "domain": "Finance",
+        "summary": "Insurance Portal designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 49,
+        "title": "Insurance Portal",
+        "domain": "Finance",
+        "summary": "Insurance Portal designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 50,
+        "title": "Payment Gateway",
+        "domain": "Finance",
+        "summary": "Payment Gateway designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 51,
+        "title": "Digital Banking",
+        "domain": "Finance",
+        "summary": "Digital Banking designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 52,
+        "title": "Fraud Detection",
+        "domain": "Finance",
+        "summary": "Fraud Detection designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 53,
+        "title": "Trading Platform",
+        "domain": "Finance",
+        "summary": "Trading Platform designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 54,
+        "title": "Accounting ERP",
+        "domain": "Finance",
+        "summary": "Accounting ERP designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 55,
+        "title": "Payment Gateway",
+        "domain": "Finance",
+        "summary": "Payment Gateway designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 56,
+        "title": "Loan Management",
+        "domain": "Finance",
+        "summary": "Loan Management designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 57,
+        "title": "Fraud Detection",
+        "domain": "Finance",
+        "summary": "Fraud Detection designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 58,
+        "title": "Accounting ERP",
+        "domain": "Finance",
+        "summary": "Accounting ERP designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 59,
+        "title": "Trading Platform",
+        "domain": "Finance",
+        "summary": "Trading Platform designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 60,
+        "title": "Digital Banking",
+        "domain": "Finance",
+        "summary": "Digital Banking designed for modern finance organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 61,
+        "title": "Virtual Classroom",
+        "domain": "Education",
+        "summary": "Virtual Classroom designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 62,
+        "title": "Learning Management",
+        "domain": "Education",
+        "summary": "Learning Management designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 63,
+        "title": "Learning Management",
+        "domain": "Education",
+        "summary": "Learning Management designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 64,
+        "title": "Placement Portal",
+        "domain": "Education",
+        "summary": "Placement Portal designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 65,
+        "title": "Library Management",
+        "domain": "Education",
+        "summary": "Library Management designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 66,
+        "title": "Virtual Classroom",
+        "domain": "Education",
+        "summary": "Virtual Classroom designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 67,
+        "title": "Online Examination",
+        "domain": "Education",
+        "summary": "Online Examination designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 68,
+        "title": "Student Dashboard",
+        "domain": "Education",
+        "summary": "Student Dashboard designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 69,
+        "title": "University Portal",
+        "domain": "Education",
+        "summary": "University Portal designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 70,
+        "title": "Library Management",
+        "domain": "Education",
+        "summary": "Library Management designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 71,
+        "title": "Student Dashboard",
+        "domain": "Education",
+        "summary": "Student Dashboard designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 72,
+        "title": "Library Management",
+        "domain": "Education",
+        "summary": "Library Management designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 73,
+        "title": "Placement Portal",
+        "domain": "Education",
+        "summary": "Placement Portal designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 74,
+        "title": "Student Dashboard",
+        "domain": "Education",
+        "summary": "Student Dashboard designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 75,
+        "title": "Attendance System",
+        "domain": "Education",
+        "summary": "Attendance System designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 76,
+        "title": "Online Examination",
+        "domain": "Education",
+        "summary": "Online Examination designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 77,
+        "title": "Course Recommendation",
+        "domain": "Education",
+        "summary": "Course Recommendation designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 78,
+        "title": "Attendance System",
+        "domain": "Education",
+        "summary": "Attendance System designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 79,
+        "title": "Virtual Classroom",
+        "domain": "Education",
+        "summary": "Virtual Classroom designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 80,
+        "title": "Placement Portal",
+        "domain": "Education",
+        "summary": "Placement Portal designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 81,
+        "title": "Library Management",
+        "domain": "Education",
+        "summary": "Library Management designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 82,
+        "title": "Learning Management",
+        "domain": "Education",
+        "summary": "Learning Management designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 83,
+        "title": "Virtual Classroom",
+        "domain": "Education",
+        "summary": "Virtual Classroom designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 84,
+        "title": "Virtual Classroom",
+        "domain": "Education",
+        "summary": "Virtual Classroom designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 85,
+        "title": "Library Management",
+        "domain": "Education",
+        "summary": "Library Management designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 86,
+        "title": "University Portal",
+        "domain": "Education",
+        "summary": "University Portal designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 87,
+        "title": "Placement Portal",
+        "domain": "Education",
+        "summary": "Placement Portal designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 88,
+        "title": "Student Dashboard",
+        "domain": "Education",
+        "summary": "Student Dashboard designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 89,
+        "title": "Placement Portal",
+        "domain": "Education",
+        "summary": "Placement Portal designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 90,
+        "title": "School ERP",
+        "domain": "Education",
+        "summary": "School ERP designed for modern education organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 91,
+        "title": "Warehouse System",
+        "domain": "E-commerce",
+        "summary": "Warehouse System designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 92,
+        "title": "Inventory System",
+        "domain": "E-commerce",
+        "summary": "Inventory System designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 93,
+        "title": "Marketplace",
+        "domain": "E-commerce",
+        "summary": "Marketplace designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 94,
+        "title": "Retail ERP",
+        "domain": "E-commerce",
+        "summary": "Retail ERP designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 95,
+        "title": "Order Management",
+        "domain": "E-commerce",
+        "summary": "Order Management designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 96,
+        "title": "Warehouse System",
+        "domain": "E-commerce",
+        "summary": "Warehouse System designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 97,
+        "title": "Warehouse System",
+        "domain": "E-commerce",
+        "summary": "Warehouse System designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 98,
+        "title": "Customer Loyalty",
+        "domain": "E-commerce",
+        "summary": "Customer Loyalty designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 99,
+        "title": "Retail ERP",
+        "domain": "E-commerce",
+        "summary": "Retail ERP designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 100,
+        "title": "Shopping Platform",
+        "domain": "E-commerce",
+        "summary": "Shopping Platform designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 101,
+        "title": "Retail ERP",
+        "domain": "E-commerce",
+        "summary": "Retail ERP designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 102,
+        "title": "Marketplace",
+        "domain": "E-commerce",
+        "summary": "Marketplace designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 103,
+        "title": "Marketplace",
+        "domain": "E-commerce",
+        "summary": "Marketplace designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 104,
+        "title": "Customer Loyalty",
+        "domain": "E-commerce",
+        "summary": "Customer Loyalty designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 105,
+        "title": "Warehouse System",
+        "domain": "E-commerce",
+        "summary": "Warehouse System designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 106,
+        "title": "Subscription Store",
+        "domain": "E-commerce",
+        "summary": "Subscription Store designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 107,
+        "title": "Vendor Portal",
+        "domain": "E-commerce",
+        "summary": "Vendor Portal designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 108,
+        "title": "Subscription Store",
+        "domain": "E-commerce",
+        "summary": "Subscription Store designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 109,
+        "title": "Customer Loyalty",
+        "domain": "E-commerce",
+        "summary": "Customer Loyalty designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 110,
+        "title": "Marketplace",
+        "domain": "E-commerce",
+        "summary": "Marketplace designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 111,
+        "title": "Customer Loyalty",
+        "domain": "E-commerce",
+        "summary": "Customer Loyalty designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 112,
+        "title": "Vendor Portal",
+        "domain": "E-commerce",
+        "summary": "Vendor Portal designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 113,
+        "title": "Shopping Platform",
+        "domain": "E-commerce",
+        "summary": "Shopping Platform designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 114,
+        "title": "Shopping Platform",
+        "domain": "E-commerce",
+        "summary": "Shopping Platform designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 115,
+        "title": "Customer Loyalty",
+        "domain": "E-commerce",
+        "summary": "Customer Loyalty designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 116,
+        "title": "Product Recommendation",
+        "domain": "E-commerce",
+        "summary": "Product Recommendation designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 117,
+        "title": "Customer Loyalty",
+        "domain": "E-commerce",
+        "summary": "Customer Loyalty designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 118,
+        "title": "Order Management",
+        "domain": "E-commerce",
+        "summary": "Order Management designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 119,
+        "title": "Warehouse System",
+        "domain": "E-commerce",
+        "summary": "Warehouse System designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 120,
+        "title": "Warehouse System",
+        "domain": "E-commerce",
+        "summary": "Warehouse System designed for modern e-commerce organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 121,
+        "title": "Performance System",
+        "domain": "HR",
+        "summary": "Performance System designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 122,
+        "title": "Performance System",
+        "domain": "HR",
+        "summary": "Performance System designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 123,
+        "title": "Performance System",
+        "domain": "HR",
+        "summary": "Performance System designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 124,
+        "title": "Payroll",
+        "domain": "HR",
+        "summary": "Payroll designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 125,
+        "title": "Training Portal",
+        "domain": "HR",
+        "summary": "Training Portal designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 126,
+        "title": "Attendance",
+        "domain": "HR",
+        "summary": "Attendance designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 127,
+        "title": "Attendance",
+        "domain": "HR",
+        "summary": "Attendance designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 128,
+        "title": "Employee Portal",
+        "domain": "HR",
+        "summary": "Employee Portal designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 129,
+        "title": "Performance System",
+        "domain": "HR",
+        "summary": "Performance System designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 130,
+        "title": "Performance System",
+        "domain": "HR",
+        "summary": "Performance System designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 131,
+        "title": "Performance System",
+        "domain": "HR",
+        "summary": "Performance System designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 132,
+        "title": "Recruitment Portal",
+        "domain": "HR",
+        "summary": "Recruitment Portal designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 133,
+        "title": "Leave Management",
+        "domain": "HR",
+        "summary": "Leave Management designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 134,
+        "title": "Training Portal",
+        "domain": "HR",
+        "summary": "Training Portal designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 135,
+        "title": "Payroll",
+        "domain": "HR",
+        "summary": "Payroll designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 136,
+        "title": "Attendance",
+        "domain": "HR",
+        "summary": "Attendance designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 137,
+        "title": "Attendance",
+        "domain": "HR",
+        "summary": "Attendance designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 138,
+        "title": "Attendance",
+        "domain": "HR",
+        "summary": "Attendance designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 139,
+        "title": "HRMS",
+        "domain": "HR",
+        "summary": "HRMS designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 140,
+        "title": "HRMS",
+        "domain": "HR",
+        "summary": "HRMS designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 141,
+        "title": "Employee Portal",
+        "domain": "HR",
+        "summary": "Employee Portal designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 142,
+        "title": "Employee Portal",
+        "domain": "HR",
+        "summary": "Employee Portal designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 143,
+        "title": "Performance System",
+        "domain": "HR",
+        "summary": "Performance System designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 144,
+        "title": "Employee Portal",
+        "domain": "HR",
+        "summary": "Employee Portal designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 145,
+        "title": "HR Analytics",
+        "domain": "HR",
+        "summary": "HR Analytics designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 146,
+        "title": "Payroll",
+        "domain": "HR",
+        "summary": "Payroll designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 147,
+        "title": "HR Analytics",
+        "domain": "HR",
+        "summary": "HR Analytics designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 148,
+        "title": "Performance System",
+        "domain": "HR",
+        "summary": "Performance System designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 149,
+        "title": "HRMS",
+        "domain": "HR",
+        "summary": "HRMS designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 150,
+        "title": "Training Portal",
+        "domain": "HR",
+        "summary": "Training Portal designed for modern hr organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 151,
+        "title": "Cab Booking",
+        "domain": "Travel",
+        "summary": "Cab Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 152,
+        "title": "Tour Management",
+        "domain": "Travel",
+        "summary": "Tour Management designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 153,
+        "title": "Travel Planner",
+        "domain": "Travel",
+        "summary": "Travel Planner designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 154,
+        "title": "Hotel Booking",
+        "domain": "Travel",
+        "summary": "Hotel Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 155,
+        "title": "Resort Management",
+        "domain": "Travel",
+        "summary": "Resort Management designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 156,
+        "title": "Flight Booking",
+        "domain": "Travel",
+        "summary": "Flight Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 157,
+        "title": "Tour Management",
+        "domain": "Travel",
+        "summary": "Tour Management designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 158,
+        "title": "Visa Portal",
+        "domain": "Travel",
+        "summary": "Visa Portal designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 159,
+        "title": "Travel CRM",
+        "domain": "Travel",
+        "summary": "Travel CRM designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 160,
+        "title": "Flight Booking",
+        "domain": "Travel",
+        "summary": "Flight Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 161,
+        "title": "Holiday Package",
+        "domain": "Travel",
+        "summary": "Holiday Package designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 162,
+        "title": "Cab Booking",
+        "domain": "Travel",
+        "summary": "Cab Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 163,
+        "title": "Flight Booking",
+        "domain": "Travel",
+        "summary": "Flight Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 164,
+        "title": "Resort Management",
+        "domain": "Travel",
+        "summary": "Resort Management designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 165,
+        "title": "Travel CRM",
+        "domain": "Travel",
+        "summary": "Travel CRM designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 166,
+        "title": "Hotel Booking",
+        "domain": "Travel",
+        "summary": "Hotel Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 167,
+        "title": "Resort Management",
+        "domain": "Travel",
+        "summary": "Resort Management designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 168,
+        "title": "Cab Booking",
+        "domain": "Travel",
+        "summary": "Cab Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 169,
+        "title": "Tourism Platform",
+        "domain": "Travel",
+        "summary": "Tourism Platform designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 170,
+        "title": "Cab Booking",
+        "domain": "Travel",
+        "summary": "Cab Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 171,
+        "title": "Visa Portal",
+        "domain": "Travel",
+        "summary": "Visa Portal designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 172,
+        "title": "Tourism Platform",
+        "domain": "Travel",
+        "summary": "Tourism Platform designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 173,
+        "title": "Flight Booking",
+        "domain": "Travel",
+        "summary": "Flight Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 174,
+        "title": "Travel Planner",
+        "domain": "Travel",
+        "summary": "Travel Planner designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 175,
+        "title": "Tour Management",
+        "domain": "Travel",
+        "summary": "Tour Management designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 176,
+        "title": "Travel Planner",
+        "domain": "Travel",
+        "summary": "Travel Planner designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 177,
+        "title": "Visa Portal",
+        "domain": "Travel",
+        "summary": "Visa Portal designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 178,
+        "title": "Flight Booking",
+        "domain": "Travel",
+        "summary": "Flight Booking designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 179,
+        "title": "Resort Management",
+        "domain": "Travel",
+        "summary": "Resort Management designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 180,
+        "title": "Tourism Platform",
+        "domain": "Travel",
+        "summary": "Tourism Platform designed for modern travel organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 181,
+        "title": "Broker CRM",
+        "domain": "Real Estate",
+        "summary": "Broker CRM designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 182,
+        "title": "Builder Portal",
+        "domain": "Real Estate",
+        "summary": "Builder Portal designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 183,
+        "title": "Broker CRM",
+        "domain": "Real Estate",
+        "summary": "Broker CRM designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 184,
+        "title": "Builder Portal",
+        "domain": "Real Estate",
+        "summary": "Builder Portal designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 185,
+        "title": "Construction ERP",
+        "domain": "Real Estate",
+        "summary": "Construction ERP designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 186,
+        "title": "Housing Society ERP",
+        "domain": "Real Estate",
+        "summary": "Housing Society ERP designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 187,
+        "title": "Construction ERP",
+        "domain": "Real Estate",
+        "summary": "Construction ERP designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 188,
+        "title": "Property Portal",
+        "domain": "Real Estate",
+        "summary": "Property Portal designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 189,
+        "title": "Broker CRM",
+        "domain": "Real Estate",
+        "summary": "Broker CRM designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 190,
+        "title": "Property Valuation",
+        "domain": "Real Estate",
+        "summary": "Property Valuation designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 191,
+        "title": "Builder Portal",
+        "domain": "Real Estate",
+        "summary": "Builder Portal designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 192,
+        "title": "Real Estate Analytics",
+        "domain": "Real Estate",
+        "summary": "Real Estate Analytics designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 193,
+        "title": "Rental Management",
+        "domain": "Real Estate",
+        "summary": "Rental Management designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 194,
+        "title": "Rental Management",
+        "domain": "Real Estate",
+        "summary": "Rental Management designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 195,
+        "title": "Broker CRM",
+        "domain": "Real Estate",
+        "summary": "Broker CRM designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 196,
+        "title": "Broker CRM",
+        "domain": "Real Estate",
+        "summary": "Broker CRM designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 197,
+        "title": "Builder Portal",
+        "domain": "Real Estate",
+        "summary": "Builder Portal designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 198,
+        "title": "Housing Society ERP",
+        "domain": "Real Estate",
+        "summary": "Housing Society ERP designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 199,
+        "title": "Property Portal",
+        "domain": "Real Estate",
+        "summary": "Property Portal designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 200,
+        "title": "Broker CRM",
+        "domain": "Real Estate",
+        "summary": "Broker CRM designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 201,
+        "title": "Real Estate Analytics",
+        "domain": "Real Estate",
+        "summary": "Real Estate Analytics designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 202,
+        "title": "Rental Management",
+        "domain": "Real Estate",
+        "summary": "Rental Management designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 203,
+        "title": "Apartment Management",
+        "domain": "Real Estate",
+        "summary": "Apartment Management designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 204,
+        "title": "Rental Management",
+        "domain": "Real Estate",
+        "summary": "Rental Management designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 205,
+        "title": "Construction ERP",
+        "domain": "Real Estate",
+        "summary": "Construction ERP designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 206,
+        "title": "Broker CRM",
+        "domain": "Real Estate",
+        "summary": "Broker CRM designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 207,
+        "title": "Construction ERP",
+        "domain": "Real Estate",
+        "summary": "Construction ERP designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 208,
+        "title": "Rental Management",
+        "domain": "Real Estate",
+        "summary": "Rental Management designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 209,
+        "title": "Property Valuation",
+        "domain": "Real Estate",
+        "summary": "Property Valuation designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 210,
+        "title": "Real Estate Analytics",
+        "domain": "Real Estate",
+        "summary": "Real Estate Analytics designed for modern real estate organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 211,
+        "title": "Production Planning",
+        "domain": "Manufacturing",
+        "summary": "Production Planning designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 212,
+        "title": "Warehouse Automation",
+        "domain": "Manufacturing",
+        "summary": "Warehouse Automation designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 213,
+        "title": "Maintenance System",
+        "domain": "Manufacturing",
+        "summary": "Maintenance System designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 214,
+        "title": "Manufacturing Dashboard",
+        "domain": "Manufacturing",
+        "summary": "Manufacturing Dashboard designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 215,
+        "title": "Maintenance System",
+        "domain": "Manufacturing",
+        "summary": "Maintenance System designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 216,
+        "title": "Maintenance System",
+        "domain": "Manufacturing",
+        "summary": "Maintenance System designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 217,
+        "title": "Supply Chain",
+        "domain": "Manufacturing",
+        "summary": "Supply Chain designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 218,
+        "title": "Supply Chain",
+        "domain": "Manufacturing",
+        "summary": "Supply Chain designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 219,
+        "title": "Machine Monitoring",
+        "domain": "Manufacturing",
+        "summary": "Machine Monitoring designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 220,
+        "title": "Inventory Control",
+        "domain": "Manufacturing",
+        "summary": "Inventory Control designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 221,
+        "title": "Machine Monitoring",
+        "domain": "Manufacturing",
+        "summary": "Machine Monitoring designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 222,
+        "title": "Procurement",
+        "domain": "Manufacturing",
+        "summary": "Procurement designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 223,
+        "title": "Manufacturing Dashboard",
+        "domain": "Manufacturing",
+        "summary": "Manufacturing Dashboard designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 224,
+        "title": "Inventory Control",
+        "domain": "Manufacturing",
+        "summary": "Inventory Control designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 225,
+        "title": "Machine Monitoring",
+        "domain": "Manufacturing",
+        "summary": "Machine Monitoring designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 226,
+        "title": "Supply Chain",
+        "domain": "Manufacturing",
+        "summary": "Supply Chain designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 227,
+        "title": "Supply Chain",
+        "domain": "Manufacturing",
+        "summary": "Supply Chain designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 228,
+        "title": "Maintenance System",
+        "domain": "Manufacturing",
+        "summary": "Maintenance System designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 229,
+        "title": "Machine Monitoring",
+        "domain": "Manufacturing",
+        "summary": "Machine Monitoring designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 230,
+        "title": "Warehouse Automation",
+        "domain": "Manufacturing",
+        "summary": "Warehouse Automation designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 231,
+        "title": "Procurement",
+        "domain": "Manufacturing",
+        "summary": "Procurement designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 232,
+        "title": "Machine Monitoring",
+        "domain": "Manufacturing",
+        "summary": "Machine Monitoring designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 233,
+        "title": "Quality Management",
+        "domain": "Manufacturing",
+        "summary": "Quality Management designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 234,
+        "title": "Supply Chain",
+        "domain": "Manufacturing",
+        "summary": "Supply Chain designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 235,
+        "title": "Warehouse Automation",
+        "domain": "Manufacturing",
+        "summary": "Warehouse Automation designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 236,
+        "title": "Factory ERP",
+        "domain": "Manufacturing",
+        "summary": "Factory ERP designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 237,
+        "title": "Inventory Control",
+        "domain": "Manufacturing",
+        "summary": "Inventory Control designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 238,
+        "title": "Manufacturing Dashboard",
+        "domain": "Manufacturing",
+        "summary": "Manufacturing Dashboard designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 239,
+        "title": "Machine Monitoring",
+        "domain": "Manufacturing",
+        "summary": "Machine Monitoring designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 240,
+        "title": "Factory ERP",
+        "domain": "Manufacturing",
+        "summary": "Factory ERP designed for modern manufacturing organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 241,
+        "title": "Agri AI",
+        "domain": "Agriculture",
+        "summary": "Agri AI designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 242,
+        "title": "Irrigation Monitoring",
+        "domain": "Agriculture",
+        "summary": "Irrigation Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 243,
+        "title": "Soil Analytics",
+        "domain": "Agriculture",
+        "summary": "Soil Analytics designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 244,
+        "title": "Agri Marketplace",
+        "domain": "Agriculture",
+        "summary": "Agri Marketplace designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 245,
+        "title": "Agri Marketplace",
+        "domain": "Agriculture",
+        "summary": "Agri Marketplace designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 246,
+        "title": "Farm ERP",
+        "domain": "Agriculture",
+        "summary": "Farm ERP designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 247,
+        "title": "Irrigation Monitoring",
+        "domain": "Agriculture",
+        "summary": "Irrigation Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 248,
+        "title": "Agri Marketplace",
+        "domain": "Agriculture",
+        "summary": "Agri Marketplace designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 249,
+        "title": "Drone Monitoring",
+        "domain": "Agriculture",
+        "summary": "Drone Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 250,
+        "title": "Agri AI",
+        "domain": "Agriculture",
+        "summary": "Agri AI designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 251,
+        "title": "Agri Marketplace",
+        "domain": "Agriculture",
+        "summary": "Agri Marketplace designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 252,
+        "title": "Agri AI",
+        "domain": "Agriculture",
+        "summary": "Agri AI designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 253,
+        "title": "Drone Monitoring",
+        "domain": "Agriculture",
+        "summary": "Drone Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 254,
+        "title": "Farm ERP",
+        "domain": "Agriculture",
+        "summary": "Farm ERP designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 255,
+        "title": "Irrigation Monitoring",
+        "domain": "Agriculture",
+        "summary": "Irrigation Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 256,
+        "title": "Farmer Portal",
+        "domain": "Agriculture",
+        "summary": "Farmer Portal designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 257,
+        "title": "Crop Monitoring",
+        "domain": "Agriculture",
+        "summary": "Crop Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 258,
+        "title": "Livestock Management",
+        "domain": "Agriculture",
+        "summary": "Livestock Management designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 259,
+        "title": "Irrigation Monitoring",
+        "domain": "Agriculture",
+        "summary": "Irrigation Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 260,
+        "title": "Crop Monitoring",
+        "domain": "Agriculture",
+        "summary": "Crop Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 261,
+        "title": "Livestock Management",
+        "domain": "Agriculture",
+        "summary": "Livestock Management designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 262,
+        "title": "Agri AI",
+        "domain": "Agriculture",
+        "summary": "Agri AI designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 263,
+        "title": "Agri AI",
+        "domain": "Agriculture",
+        "summary": "Agri AI designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 264,
+        "title": "Drone Monitoring",
+        "domain": "Agriculture",
+        "summary": "Drone Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 265,
+        "title": "Soil Analytics",
+        "domain": "Agriculture",
+        "summary": "Soil Analytics designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 266,
+        "title": "Irrigation Monitoring",
+        "domain": "Agriculture",
+        "summary": "Irrigation Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 267,
+        "title": "Agri AI",
+        "domain": "Agriculture",
+        "summary": "Agri AI designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 268,
+        "title": "Agri Marketplace",
+        "domain": "Agriculture",
+        "summary": "Agri Marketplace designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 269,
+        "title": "Farmer Portal",
+        "domain": "Agriculture",
+        "summary": "Farmer Portal designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 270,
+        "title": "Irrigation Monitoring",
+        "domain": "Agriculture",
+        "summary": "Irrigation Monitoring designed for modern agriculture organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 271,
+        "title": "E-Governance",
+        "domain": "Government",
+        "summary": "E-Governance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 272,
+        "title": "E-Governance",
+        "domain": "Government",
+        "summary": "E-Governance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 273,
+        "title": "Municipality ERP",
+        "domain": "Government",
+        "summary": "Municipality ERP designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 274,
+        "title": "Court Management",
+        "domain": "Government",
+        "summary": "Court Management designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 275,
+        "title": "Public Grievance",
+        "domain": "Government",
+        "summary": "Public Grievance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 276,
+        "title": "Court Management",
+        "domain": "Government",
+        "summary": "Court Management designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 277,
+        "title": "Court Management",
+        "domain": "Government",
+        "summary": "Court Management designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "PostgreSQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 278,
+        "title": "Tax Portal",
+        "domain": "Government",
+        "summary": "Tax Portal designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 279,
+        "title": "Municipality ERP",
+        "domain": "Government",
+        "summary": "Municipality ERP designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 280,
+        "title": "Tax Portal",
+        "domain": "Government",
+        "summary": "Tax Portal designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 281,
+        "title": "Tax Portal",
+        "domain": "Government",
+        "summary": "Tax Portal designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 282,
+        "title": "Passport System",
+        "domain": "Government",
+        "summary": "Passport System designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 283,
+        "title": "Digital Voting",
+        "domain": "Government",
+        "summary": "Digital Voting designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 284,
+        "title": "Public Grievance",
+        "domain": "Government",
+        "summary": "Public Grievance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 285,
+        "title": "Municipality ERP",
+        "domain": "Government",
+        "summary": "Municipality ERP designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "FastAPI",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 286,
+        "title": "E-Governance",
+        "domain": "Government",
+        "summary": "E-Governance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 287,
+        "title": "Public Grievance",
+        "domain": "Government",
+        "summary": "Public Grievance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "PostgreSQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 288,
+        "title": "Tax Portal",
+        "domain": "Government",
+        "summary": "Tax Portal designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 289,
+        "title": "Citizen Portal",
+        "domain": "Government",
+        "summary": "Citizen Portal designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 290,
+        "title": "Court Management",
+        "domain": "Government",
+        "summary": "Court Management designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Flutter",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 291,
+        "title": "Municipality ERP",
+        "domain": "Government",
+        "summary": "Municipality ERP designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 292,
+        "title": "E-Governance",
+        "domain": "Government",
+        "summary": "E-Governance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 293,
+        "title": "Municipality ERP",
+        "domain": "Government",
+        "summary": "Municipality ERP designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "React",
+            ".NET",
+            "MongoDB"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 294,
+        "title": "Digital Voting",
+        "domain": "Government",
+        "summary": "Digital Voting designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 295,
+        "title": "Public Grievance",
+        "domain": "Government",
+        "summary": "Public Grievance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Node.js",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 296,
+        "title": "E-Governance",
+        "domain": "Government",
+        "summary": "E-Governance designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Vue",
+            "Django",
+            "MySQL"
+        ],
+        "complexity": "High",
+        "timeline": "6 Months",
+        "budget": "High"
+    },
+    {
+        "id": 297,
+        "title": "Land Record",
+        "domain": "Government",
+        "summary": "Land Record designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 298,
+        "title": "Digital Voting",
+        "domain": "Government",
+        "summary": "Digital Voting designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    },
+    {
+        "id": 299,
+        "title": "Citizen Portal",
+        "domain": "Government",
+        "summary": "Citizen Portal designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Angular",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "Medium",
+        "timeline": "4 Months",
+        "budget": "Medium"
+    },
+    {
+        "id": 300,
+        "title": "Court Management",
+        "domain": "Government",
+        "summary": "Court Management designed for modern government organizations with scalability, security, analytics and automation.",
+        "tech_stack": [
+            "Next.js",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "complexity": "Low",
+        "timeline": "2 Months",
+        "budget": "Low"
+    }
+]

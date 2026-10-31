@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# React
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# Generated files
+uploads/
+generated_proposals/
+
+# OS files
+.DS_Store
+Thumbs.db
+# Old Git history
+.git-old/

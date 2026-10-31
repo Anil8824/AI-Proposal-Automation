@@ -1,0 +1,268 @@
+/* -----------------------------
+   Global
+------------------------------ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  background: linear-gradient(135deg,
+      #eef4ff,
+      #f9fbff);
+
+  color: #1e293b;
+
+  min-height: 100vh;
+}
+
+
+/* -----------------------------
+   Headings
+------------------------------ */
+
+h1 {
+
+  color: #1e3a8a;
+
+  font-size: 42px;
+
+  margin-bottom: 15px;
+
+  font-weight: 700;
+}
+
+h2 {
+
+  color: #1d4ed8;
+
+  margin-bottom: 18px;
+}
+
+h3 {
+
+  color: #111827;
+
+  margin-bottom: 10px;
+}
+
+
+/* -----------------------------
+   Paragraph
+------------------------------ */
+
+p {
+
+  color: #4b5563;
+
+  line-height: 1.7;
+}
+
+
+/* -----------------------------
+   Upload Card
+------------------------------ */
+
+.upload-card {
+
+  background: white;
+
+  border-radius: 16px;
+
+  padding: 35px;
+
+  margin-top: 30px;
+
+  box-shadow:
+
+    0 8px 25px rgba(0, 0, 0, .08);
+}
+
+
+/* -----------------------------
+   Inputs
+------------------------------ */
+
+input[type=file] {
+
+  padding: 12px;
+
+  background: #f8fafc;
+
+  border-radius: 10px;
+
+  border: 1px solid #dbeafe;
+
+  width: 100%;
+}
+
+
+/* -----------------------------
+   Buttons
+------------------------------ */
+
+button {
+
+  margin-top: 20px;
+
+  padding: 14px 32px;
+
+  border: none;
+
+  border-radius: 10px;
+
+  cursor: pointer;
+
+  font-size: 16px;
+
+  font-weight: 600;
+
+  transition: .3s;
+
+  background: #2563eb;
+
+  color: white;
+}
+
+button:hover {
+
+  transform: translateY(-2px);
+
+  background: #1d4ed8;
+
+  box-shadow:
+
+    0 8px 18px rgba(37, 99, 235, .35);
+}
+
+
+/* -----------------------------
+   Tables
+------------------------------ */
+
+table {
+
+  width: 100%;
+
+  border-collapse: collapse;
+
+  margin-top: 15px;
+}
+
+td {
+
+  padding: 14px;
+
+  border-bottom: 1px solid #e5e7eb;
+}
+
+
+/* -----------------------------
+   Cards
+------------------------------ */
+
+.card {
+
+  background: white;
+
+  border-radius: 14px;
+
+  padding: 20px;
+
+  margin-bottom: 20px;
+
+  box-shadow:
+
+    0 5px 12px rgba(0, 0, 0, .06);
+
+  transition: .25s;
+}
+
+.card:hover {
+
+  transform: translateY(-4px);
+}
+
+
+/* -----------------------------
+   Proposal Viewer
+------------------------------ */
+
+.proposal {
+
+  background: white;
+
+  border-radius: 14px;
+
+  padding: 25px;
+
+  border: 1px solid #e5e7eb;
+
+  max-height: 700px;
+
+  overflow: auto;
+
+  line-height: 1.8;
+}
+
+
+/* -----------------------------
+   Download Buttons
+------------------------------ */
+
+.download-buttons {
+
+  display: flex;
+
+  gap: 15px;
+
+  flex-wrap: wrap;
+
+  margin-bottom: 25px;
+}
+
+
+/* -----------------------------
+   Scrollbar
+------------------------------ */
+
+::-webkit-scrollbar {
+
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+
+  background: #cbd5e1;
+
+  border-radius: 20px;
+}
+
+
+/* -----------------------------
+   Mobile
+------------------------------ */
+
+@media(max-width:768px) {
+
+  h1 {
+
+    font-size: 32px;
+  }
+
+  table {
+
+    font-size: 14px;
+  }
+
+  button {
+
+    width: 100%;
+  }
+
+}
